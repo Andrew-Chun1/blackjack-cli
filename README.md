@@ -10,5 +10,5 @@ To setup locally:
 in your cloned directory in terminal run:
 
 ```
-$PATH~ ./main.go
+$PATH~ ./main
 ```
